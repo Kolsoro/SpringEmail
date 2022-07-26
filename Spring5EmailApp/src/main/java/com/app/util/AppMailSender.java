@@ -42,7 +42,7 @@ public class AppMailSender {
 		   
 //		   3. Compose Message 
 		   helper.setTo(to);
-		   helper.setFrom("ipusamer@gmail.com");
+		   helper.setFrom("********@gmail.com");
 		   helper.setSubject(sub);
            helper.setText(text);
            helper.addAttachment(file.getFilename(), file);
