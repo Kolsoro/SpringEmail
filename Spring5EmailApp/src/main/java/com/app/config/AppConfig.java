@@ -22,8 +22,8 @@ public class AppConfig {
 
 		mail.setHost("smtp.gmail.com");
 		mail.setPort(587);
-		mail.setUsername("kolsoro9@gmail.com");
-		mail.setPassword("Kol@1997");
+		mail.setUsername("**********@gmail.com");
+		mail.setPassword("******");
 		mail.setJavaMailProperties(props());
 
 		return mail;
